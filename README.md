@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @celilselcuk
-- 🤔 I'm looking for help with my game Down Town Drift (check discussions).
+- 🔭 I’m currently working on a Skin Cancer Detector that uses AI
 - 👀 I'm interested in AI and its integration into software development
 - 🌱 I'm currently studying at school while learning Python and hopefully JS in the future!
 - 💻 Avid VS Code enjoyer!
