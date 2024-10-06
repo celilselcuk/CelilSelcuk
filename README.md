@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @celilselcuk
-- 🔭 I’m currently working on a Skin Cancer Detector that uses AI
 - 👀 I'm interested in AI and its integration into software development
-- 🌱 I'm currently studying at school while learning Python and hopefully JS in the future!
+- 🌱 I'm currently studying at school while mastering Python and hopefully JS, Rust, and Swift in the future!
 - 💻 Avid VS Code enjoyer!
 - 📫 You can reach me through my Gmail: celilselcuk09@gmail.com.
 
