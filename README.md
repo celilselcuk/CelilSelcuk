@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @celilselcuk
-- 👀 I'm interested in AI and its integration into software development
-- 🌱 I'm currently studying at school while mastering Python and hopefully JS, Rust, and Swift in the future!
+- 👋 Hi, I'm @celilselcuk.
+- 👀 I'm interested in AI and its integration into software development.
+- 🌱 I'm currently studying at school while mastering Python and hopefully JS, Rust, and Swift in the future.
 - 💻 Avid VS Code enjoyer!
 - 📫 You can reach me through my Gmail: celilselcuk09@gmail.com.
